@@ -45,6 +45,31 @@ You can installed by following the instructions described in its [official websi
 
 After that, you need to [set up the code editor of your preference](https://flutter.dev/docs/get-started/editor?tab=vscode).
 
+## Important commands
+
+| Command | Description |
+|------|------|
+| **$ flutter create my_project_name** | This allows us to create a new project |
+| **$ flutter doctor** | This is one of the command line commands from the Flutter SDK which allows us to diagnose issues with our setup for building Andorid and iOS apps. |
+| **$ flutter channel beta </br> $ flutter upgrade </br> $ flutter config --enable-web** | It allows us to compile your app on the web enabling this feature (which is currently beta). |
+| **$ flutter devices** | This allows us to see the list of connected devices in which you an emulate your app. |
+| **$ flutter run** | This allows us to run the app. |
+| **$ flutter pub get** | This allows us to put the package into our project, and auto-generates the pubspec.lack file with the list of all packages pulled into the project and their version numbers. | 
+| $ flutter format <filename> | Thsi allows us to format out code. |
+
+</br>
+
+| Flutter run key commands | Description |
+| ------ | ------- |
+| **r** | Hot reload |
+| **R** | Hot restart |
+| **h** | Repeat this help message |
+| **d** | Detach (terminate "flutter run" but leave application running) |
+| **c** | Clear the screen |
+| **q** | Quit (terminate the application on the device) |
+
+</br>
+
 ## Projects
 
 1) [Startup namer](https://github.com/ylruiz/startup_namer) 
