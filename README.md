@@ -66,10 +66,10 @@ After that, you need to [set up the code editor of your preference](https://flut
 
 ## Projects
 
-1) [Startup namer](https://github.com/ylruiz/startup_namer) 
-2) [Flutter for Java Developers](https://github.com/ylruiz/flutter_for_java_dev)
-3) [Hello World](https://github.com/ylruiz/hello_world)
-4) [Unit Converter](https://github.com/ylruiz/unit_converter)
+1) [Hello World](https://github.com/ylruiz/hello_world)
+3) [Unit Converter](https://github.com/ylruiz/unit_converter)
+3) [Startup namer](https://github.com/ylruiz/startup_namer) 
+4) [Flutter for Java Developers](https://github.com/ylruiz/flutter_for_java_dev)
 
 ## References
 
