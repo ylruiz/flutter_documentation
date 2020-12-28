@@ -25,18 +25,12 @@ The last stable release of the Framework was Flutter 1.22.5 (on December 10, 202
 The main advantage that Flutter offerts to us are the following:
 
 - *Fast development*
-
-    ????
-
 - *Expressive and Flexible UI*
-
-    ????
-
 - *Native Performance*
 
-    ????
-
 ### Disadvantages   
+
+- The web version of flutter is still a beta version.
 
 ### Installation 
 
@@ -55,7 +49,7 @@ After that, you need to [set up the code editor of your preference](https://flut
 | **$ flutter devices** | This allows us to see the list of connected devices in which you an emulate your app. |
 | **$ flutter run** | This allows us to run the app. |
 | **$ flutter pub get** | This allows us to put the package into our project, and auto-generates the pubspec.lack file with the list of all packages pulled into the project and their version numbers. | 
-| $ flutter format <filename> | Thsi allows us to format out code. |
+| **$ flutter format <filename>** | Thsi allows us to format out code. |
 
 </br>
 
@@ -73,6 +67,9 @@ After that, you need to [set up the code editor of your preference](https://flut
 ## Projects
 
 1) [Startup namer](https://github.com/ylruiz/startup_namer) 
+2) [Flutter for Java Developers](https://github.com/ylruiz/flutter_for_java_dev)
+3) [Hello World](https://github.com/ylruiz/hello_world)
+4) [Unit Converter](https://github.com/ylruiz/unit_converter)
 
 ## References
 
