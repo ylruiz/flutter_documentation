@@ -8,6 +8,8 @@ Here you will find the mean concepts and the elemental stuff that you need to un
 
 **Flutter** is a free and an open source Google's UI toolkit that allows us to build applications for different plataforms, such as mobile, web, and desktop. The best part is that we can do that by using a single codebase.  
 
+Flutter apps are written in the [**Dart**](Dart.md) language and make use of many of the language's more advanced features.
+
 ### History
 
 The first version of Flutter was known as "Sky" and annaunced in 2015. 
