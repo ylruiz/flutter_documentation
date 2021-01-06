@@ -79,6 +79,7 @@ After that, you need to [set up the code editor of your preference](https://flut
 2) [Unit Converter](https://github.com/ylruiz/unit_converter)
 3) [Productivity Timer](https://github.com/ylruiz/productuvity_timer)
 4) [Simple Pong Game](https://github.com/ylruiz/simple_pong)
+5) [Let's Go to the Movies](https://github.com/ylruiz/movies)
 
 
 ## References
